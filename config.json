@@ -1,8 +1,5 @@
 {
   "maintenance": true,
-  "title": "🚧 Under Maintenance",
-  "message": "We're adding exciting new features.",
-  "reason": "Theme System Update",
-  "eta": "June 5, 2026 8:00 PM",
-  "version": "2.1.0"
+  "message": "🚀 Deploying new features...",
+  "version": "2.0.0"
 }
